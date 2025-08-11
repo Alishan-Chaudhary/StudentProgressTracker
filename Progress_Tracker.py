@@ -16,4 +16,6 @@ button.pack()
 button = tk.Button(window,text="Edit Student")
 button.pack()
 
+print('hello')
+
 window.mainloop()
